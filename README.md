@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Influencer Detection in Social Networks using Link Analysis
 
 Industry-level Big Data Analytics dashboard detecting influential users via PageRank, Degree Centrality, Betweenness, HITS + custom score.
@@ -69,4 +69,12 @@ npm start
 Enjoy analyzing social influence! 🚀
 =======
 # Influencer_Detection_Sytem
->>>>>>> d9e64127f040daa47212bf57075a74745c49ce86
+<img width="1016" height="523" alt="image" src="https://github.com/user-attachments/assets/e3939a79-654e-4cea-8490-d9c02fc33930" />
+<img width="1122" height="516" alt="image" src="https://github.com/user-attachments/assets/f5e7b531-a24e-427f-9f70-a6d383e7ea04" />
+<img width="1110" height="520" alt="image" src="https://github.com/user-attachments/assets/704497ba-bda1-453f-8e43-12a087edf015" />
+<img width="1085" height="518" alt="image" src="https://github.com/user-attachments/assets/9693d018-78b5-4237-af0a-0986ae3b1012" />
+
+
+
+
+
