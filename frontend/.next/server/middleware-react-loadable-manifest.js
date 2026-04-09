@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\page.js -> ../services/api\":{\"id\":\"app\\\\page.js -> ../services/api\",\"files\":[]}}"
